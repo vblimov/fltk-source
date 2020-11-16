@@ -1,0 +1,2 @@
+D:\Downloads\fltk-1.3.5-source\fltk-1.3.5\test\symbolsd.pdb
+D:\Downloads\fltk-1.3.5-source\fltk-1.3.5\ide\VisualC2010\symbols_debug\symbolsd.pdb

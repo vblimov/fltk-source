@@ -1,0 +1,6 @@
+﻿  Create .cxx and .h file with fluidd
+  Compiling fluid files ...
+  keyboard.cxx
+  keyboard_ui.cxx
+  Создание кода...
+  keyboard.vcxproj -> D:\Downloads\fltk-1.3.5-source\fltk-1.3.5\ide\VisualC2010\..\..\test\keyboardd.exe
